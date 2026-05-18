@@ -84,15 +84,3 @@ Ouvrez votre navigateur sur : **http://localhost:5173**
 | **Enseignant** | `prof@unitime.ma` | `prof123` | Peut réserver des salles et voir son planning. |
 | **Étudiant** | `student@unitime.ma` | `student123` | Consultation simple (Vue LST AD). |
 
-## 👥 Auteurs
-
-Projet de fin de module "Algorithmique Avancée & Programmation" - **FST Tanger**.
-
-* **Manal Rhoni Aref** (Lead Developer & AI Architect)
-* Meryem El Khoumri
-* Moad Afylal
-* Sofyane Fritit
-* Souhaila Benaouate
-
----
-*Encadré par : Pr. Sanae Khali Issa*
